@@ -6,6 +6,11 @@ ul {
   list-style-type: none;
 }
 
+img{
+  width:100%;
+  height:auto;
+}
+
 .navbar-default .navbar-brand {
   color: #77777791;
   font-size: 12px;
@@ -42,14 +47,32 @@ ul {
 
 .row {
   margin-left: 15px;
+  clear: both;
 }
 
-.informacion{
-  margin-bottom:20px;
+.informacion {
+  margin-bottom: 20px;
 }
 
-.img-responsive {
-  max-width: 100%;
-  height: auto;
-  display: block;;
+.box-left {
+  float: left;
+  width: 45%;
+}
+.box-right {
+  float: right;
+    width: 45%;
+}
+
+@media(max-width: 480px) {
+  .box-left {
+    float: left;
+    width: auto;
+  }
+}
+
+@media(max-width: 800px) {
+  .box-right {
+    float: right;
+    width: auto;
+  }
 }
