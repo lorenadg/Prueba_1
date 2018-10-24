@@ -1,0 +1,55 @@
+body {
+  padding-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.navbar-default .navbar-brand {
+  color: #77777791;
+  font-size: 12px;
+}
+
+.mensaje {
+  margin-top: 10px;
+  background-color: #7fa035;
+  text-align: center;
+  color: white;
+}
+
+.contacto {
+  margin-bottom: 10px;
+  background-color: #eebf31;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+.bajada {
+  margin-bottom: 0px;
+  background-color: #0050b3;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.margin {
+  padding-left: 60px;
+}
+
+.row {
+  margin-left: 15px;
+}
+
+.informacion{
+  margin-bottom:20px;
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;;
+}
