@@ -33,6 +33,7 @@ Se deben realizar 3 páginas: index, nosotros, noticias. (2 pts.) El sitio web 
 ### Requisitos específicos de cada página
 
 Las páginas específicamente deben contener:
+
 Index:
 - (1 pto.) Banner principal, con imágenes alusivas a los servicios de la fundación.
 
