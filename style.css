@@ -11,6 +11,14 @@ img {
   height: auto;
 }
 
+h3 {
+  font-size: 3vh;
+}
+
+h2 {
+  font-size: 4vh;
+}
+
 .navbar-default .navbar-brand {
   color: #77777791;
   font-size: 12px;
