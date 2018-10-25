@@ -51,7 +51,6 @@ Noticias:
  
 ***
 
-
  
 ### Instrucciones para la entrega
 
