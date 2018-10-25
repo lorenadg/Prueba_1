@@ -9,6 +9,17 @@ ul {
 img {
   width: 100%;
   height: auto;
+<<<<<<< HEAD
+=======
+}
+
+h3 {
+  font-size: 3vh;
+}
+
+h2 {
+  font-size: 4vh;
+>>>>>>> master
 }
 
 .navbar-default .navbar-brand {
